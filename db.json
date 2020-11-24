@@ -1,0 +1,144 @@
+{
+"models": [
+{
+"id": "15da327f-30a9-4697-8c40-a72bff038bf5",
+"name": "Uber",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"status": "sandbox",
+"ai_suggestions": 12,
+"human_suggestions": 17,
+"signals_count": 26,
+"total_api_calls": 0,
+"avg_accuracy": 0,
+"starred": true
+},
+{
+"id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
+"name": "Bakerhughes",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"status": "deployed",
+"ai_suggestions": 0,
+"human_suggestions": 0,
+"signals_count": 45,
+"total_api_calls": 14,
+"avg_accuracy": 78,
+"starred": false
+},
+{
+"id": "f9c63064-afd9-4340-8df0-3eb69e889740",
+"name": "Ubsisoft",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"status": "sandbox",
+"ai_suggestions": 12,
+"human_suggestions": 17,
+"signals_count": 26,
+"total_api_calls": 0,
+"avg_accuracy": 0,
+"starred": true
+},
+{
+"id": "6172be31-faa9-49a8-b3c6-6fced8525959",
+"name": "Zemoso",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"status": "sandbox",
+"ai_suggestions": 12,
+"human_suggestions": 17,
+"signals_count": 26,
+"total_api_calls": 0,
+"avg_accuracy": 0,
+"starred": true
+}
+],
+"signals": [
+{
+"id": "ac51d151-08ce-46c4-949f-f4a181da472c",
+"model_id": "6172be31-faa9-49a8-b3c6-6fced8525959",
+"text": "Promise to pay",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 28
+},
+{
+"id": "5f213f5d-a269-4c85-ac0c-c6a1a0fb97d8",
+"model_id": "6172be31-faa9-49a8-b3c6-6fced8525959",
+"text": "Follow up",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 28
+},
+{
+"id": "d7985dfd-2b5b-4d75-b5f4-f465a6f0795b",
+"model_id": "6172be31-faa9-49a8-b3c6-6fced8525959",
+"text": "Already paid",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 24
+},
+{
+"id": "031ea30b-c812-4fa0-8e49-2759d2df1c12",
+"model_id": "f9c63064-afd9-4340-8df0-3eb69e889740",
+"text": "Promise to pay",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 12
+},
+{
+"id": "012ccda1-21d5-4324-8742-2013b29f743f",
+"model_id": "f9c63064-afd9-4340-8df0-3eb69e889740",
+"text": "Already paid",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 27
+},
+{
+"id": "f09bdbae-c034-4ca0-8ffd-ec3500dc87a5",
+"model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
+"text": "Already paid",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 27
+},
+{
+"id": "595c3b71-aaa6-49f1-bc35-eb862ed80598",
+"model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
+"text": "Will pay",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 47
+},
+{
+"id": "1e43e422-8f14-4a30-8b4a-1956082031c0",
+"model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
+"text": "Paid already",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 47
+},
+{
+"id": "a36a6835-6d1d-450a-8379-4da0ba591b2a",
+"model_id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
+"text": "Promised to schedule",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 47
+},
+{
+"id": "599bf3c5-938a-4f5e-9bfc-7a23f7cc34e4",
+"model_id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
+"text": "Paying up right away",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+"ai_suggestions": 21,
+"human_suggestions": 12,
+"total_samples": 47
+}
+]
+}
