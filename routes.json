@@ -1,0 +1,7 @@
+{
+    "/workspaces": "/workspaces",
+    "/workspaces/:id": "/workspaces?id=:id",
+    "/workspaces/:id/models": "/models?workspaceId=:id",
+    "/workspaces/:id/models/:modelId": "/models?workspaceId=:id&id=:modelId&_embed=signals",
+    "/models": "/models"
+}
