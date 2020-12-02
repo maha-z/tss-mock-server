@@ -1,7 +1,6 @@
 {
     "/workspaces": "/workspaces",
-    "/workspaces/:id": "/workspaces?id=:id",
-    "/workspaces/:id/models": "/models?workspaceId=:id",
-    "/workspaces/:id/models/:modelId": "/models?workspaceId=:id&id=:modelId&_embed=signals",
-    "/models": "/models"
+    "/workspaces/:workspaceId": "/workspaces?id=:workspaceId",
+    "/workspaces/:workspaceId/models": "/models?workspaceId=:workspaceId",
+    "/workspaces/:workspaceId/models/:modelId": "/models?workspaceId=:workspaceId&id=:modelId&_embed=signals"
 }
