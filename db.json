@@ -1,179 +1,211 @@
 {
-"models": [
-{
-"id": "15da327f-30a9-4697-8c40-a72bff038bf5",
-"title": "Uber",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"subheader": "Sandbox",
-"machineSuggestions": 12,
-"humanSuggestions": 17,
-"totalSignals": 26,
-"bookmarked": "true",
-"time": "modified 2h ago"
-},
-{
-"id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
-"title": "Bakerhughes",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"subheader": "Deployed",
-"machineSuggestions": 0,
-"humanSuggestions": 0,
-"totalSignals": 45,
-"totalAPIs": 14,
-"avgAccuracy": "NA",
-"bookmarked": "false",
-"time": "modified 2h ago"
-},
-{
-"id": "f9c63064-afd9-4340-8df0-3eb69e889740",
-"title": "Uber",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"subheader": "Deployed",
-"time": "modified 2h ago",
-"totalSignals": 26,
-"totalAPIs": 40,
-"avgAccuracy": "93%",
-"bookmarked": "false"
-}
-],
-"signals": [
-{
-"id": "ac51d151-08ce-46c4-949f-f4a181da472c",
-"model_id": "6172be31-faa9-49a8-b3c6-6fced8525959",
-"title": "Promise to pay",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"machineSuggestions": 21,
-"humanSuggestions": 12,
-"totalSamples": 28
-},
-{
-"id": "5f213f5d-a269-4c85-ac0c-c6a1a0fb97d8",
-"model_id": "6172be31-faa9-49a8-b3c6-6fced8525959",
-"title": "Follow up",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"machineSuggestions": 21,
-"humanSuggestions": 12,
-"totalSamples": 28
-},
-{
-"id": "d7985dfd-2b5b-4d75-b5f4-f465a6f0795b",
-"model_id": "6172be31-faa9-49a8-b3c6-6fced8525959",
-"title": "Already paid",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 24,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-},
-{
-"id": "031ea30b-c812-4fa0-8e49-2759d2df1c12",
-"model_id": "f9c63064-afd9-4340-8df0-3eb69e889740",
-"title": "Promise to pay",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 12,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-},
-{
-"id": "012ccda1-21d5-4324-8742-2013b29f743f",
-"model_id": "f9c63064-afd9-4340-8df0-3eb69e889740",
-"title": "Already paid",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 27,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-},
-{
-"id": "f09bdbae-c034-4ca0-8ffd-ec3500dc87a5",
-"model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
-"title": "Already paid",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 27,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-},
-{
-"id": "595c3b71-aaa6-49f1-bc35-eb862ed80598",
-"model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
-"title": "Will pay",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 47,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-},
-{
-"id": "1e43e422-8f14-4a30-8b4a-1956082031c0",
-"model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
-"title": "Paid already",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 47,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-},
-{
-"id": "a36a6835-6d1d-450a-8379-4da0ba591b2a",
-"model_id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
-"title": "Promised to schedule",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 47,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-},
-{
-"id": "599bf3c5-938a-4f5e-9bfc-7a23f7cc34e4",
-"model_id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
-"title": "Paying up right away",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
-"ai_suggestions": 21,
-"human_suggestions": 12,
-"totalSignals": 47,
-"extension": "Extended from ToVo",
-"bookmarked": false,
-"time": "Modified 2h ago"
-}
-],
-"my-signals": [
-{
-"title": "Promise To Pay",
-"iconText": "PP",
-"machineSuggestions": "15",
-"humanSuggestions": "09",
-"description": "Donecid elit non mi porta gravida at eget metu nullam id dolor id nibh ultricies vehicula utide...",
-"totalSamples": "26"
-},
-{
-"title": "Already Paid",
-"machineSuggestions": "15",
-"humanSuggestions": "09",
-"description": "Donecid elit non mi porta gravida at eget metu nullam id dolor id nibh ultricies vehicula utide...",
-"totalSamples": "26"
-},
-{
-"title": "Will Pay Later",
-"machineSuggestions": "15",
-"humanSuggestions": "09",
-"description": "Donecid elit non mi porta gravida at eget metu nullam id dolor id nibh ultricies vehicula utide...",
-"totalSamples": "26"
-}
-]
+  "workspaces": [
+    {
+      "id": "2eb6fd20-e2c6-4756-8c26-28cbd7526b05",
+      "name": "Account Receivables"
+    }
+  ],
+  "models": [
+    {
+      "id": "6172be31-faa9-49a8-b3c6-6fced8525959",
+      "name": "Uber",
+      "total_ai_suggestions": 12,
+      "total_human_suggestions": 17,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "template": "Extended from ToVo",
+      "starred": true,
+      "sandbox": true,
+      "archived": true,
+      "total_signals": 26,
+      "total_api_calls": 40,
+      "avg_accuracy": 93,
+      "last_used_time": "modified 2h ago",
+      "version": "v1.4",
+      "workspaceId": "2eb6fd20-e2c6-4756-8c26-28cbd7526b05"
+    },
+    {
+      "id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
+      "name": "Bakerhughes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "version": "v1.4",
+      "deployed": true,
+      "sandbox": false,
+      "archived": false,
+      "total_ai_suggestions": 0,
+      "total_human_suggestions": 0,
+      "total_signals": 45,
+      "total_api_calls": 14,
+      "avg_accuracy": 0,
+      "starred": false,
+      "last_used_time": "modified 2h ago",
+      "template": "",
+      "workspaceId": "2eb6fd20-e2c6-4756-8c26-28cbd7526b05"
+    },
+    {
+      "id": "f9c63064-afd9-4340-8df0-3eb69e889740",
+      "name": "Uber",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "version": "v1.4",
+      "deployed": true,
+      "sandbox": false,
+      "archived": false,
+      "total_ai_suggestions": 0,
+      "total_human_suggestions": 0,
+      "total_signals": 26,
+      "total_api_calls": 40,
+      "avg_accuracy": 93,
+      "starred": false,
+      "last_used_time": "modified 2h ago",
+      "template": "",
+      "workspaceId": "2eb6fd20-e2c6-4756-8c26-28cbd7526b05"
+    }
+  ],
+  "signals": [
+    {
+      "id": "ac51d151-08ce-46c4-949f-f4a181da472c",
+      "modelId": "6172be31-faa9-49a8-b3c6-6fced8525959",
+      "name": "Promise to pay",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "status": "active",
+      "total_ai_suggestions": 21,
+      "total_human_suggestions": 12,
+      "total_samples": 28
+    },
+    {
+      "id": "5f213f5d-a269-4c85-ac0c-c6a1a0fb97d8",
+      "modelId": "6172be31-faa9-49a8-b3c6-6fced8525959",
+      "name": "Follow up",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "status": "active",
+      "total_ai_suggestions": 21,
+      "total_human_suggestions": 12,
+      "total_samples": 28
+    },
+    {
+      "id": "d7985dfd-2b5b-4d75-b5f4-f465a6f0795b",
+      "modelId": "6172be31-faa9-49a8-b3c6-6fced8525959",
+      "name": "Already paid",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "total_ai_suggestions": 21,
+      "total_human_suggestions": 12,
+      "total_samples": 24,
+      "status": "active"
+    },
+    {
+      "id": "031ea30b-c812-4fa0-8e49-2759d2df1c12",
+      "model_id": "f9c63064-afd9-4340-8df0-3eb69e889740",
+      "title": "Promise to pay",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "ai_suggestions": 21,
+      "human_suggestions": 12,
+      "totalSignals": 12,
+      "extension": "Extended from ToVo",
+      "bookmarked": false,
+      "time": "Modified 2h ago"
+    },
+    {
+      "id": "012ccda1-21d5-4324-8742-2013b29f743f",
+      "model_id": "f9c63064-afd9-4340-8df0-3eb69e889740",
+      "title": "Already paid",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "ai_suggestions": 21,
+      "human_suggestions": 12,
+      "totalSignals": 27,
+      "extension": "Extended from ToVo",
+      "bookmarked": false,
+      "time": "Modified 2h ago"
+    },
+    {
+      "id": "f09bdbae-c034-4ca0-8ffd-ec3500dc87a5",
+      "model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
+      "title": "Already paid",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "ai_suggestions": 21,
+      "human_suggestions": 12,
+      "totalSignals": 27,
+      "extension": "Extended from ToVo",
+      "bookmarked": false,
+      "time": "Modified 2h ago"
+    },
+    {
+      "id": "595c3b71-aaa6-49f1-bc35-eb862ed80598",
+      "model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
+      "title": "Will pay",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "ai_suggestions": 21,
+      "human_suggestions": 12,
+      "totalSignals": 47,
+      "extension": "Extended from ToVo",
+      "bookmarked": false,
+      "time": "Modified 2h ago"
+    },
+    {
+      "id": "1e43e422-8f14-4a30-8b4a-1956082031c0",
+      "model_id": "15da327f-30a9-4697-8c40-a72bff038bf5",
+      "title": "Paid already",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "ai_suggestions": 21,
+      "human_suggestions": 12,
+      "totalSignals": 47,
+      "extension": "Extended from ToVo",
+      "bookmarked": false,
+      "time": "Modified 2h ago"
+    },
+    {
+      "id": "a36a6835-6d1d-450a-8379-4da0ba591b2a",
+      "model_id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
+      "title": "Promised to schedule",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "ai_suggestions": 21,
+      "human_suggestions": 12,
+      "totalSignals": 47,
+      "extension": "Extended from ToVo",
+      "bookmarked": false,
+      "time": "Modified 2h ago"
+    },
+    {
+      "id": "599bf3c5-938a-4f5e-9bfc-7a23f7cc34e4",
+      "model_id": "09a1e69b-0321-4c8c-be3b-f9d96c90e6e3",
+      "title": "Paying up right away",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "ai_suggestions": 21,
+      "human_suggestions": 12,
+      "totalSignals": 47,
+      "extension": "Extended from ToVo",
+      "bookmarked": false,
+      "time": "Modified 2h ago"
+    }
+  ],
+  "my-signals": [
+    {
+      "id": "ac51d151-08ce-46c4-949f-f4a181da472c",
+      "modelId": "6172be31-faa9-49a8-b3c6-6fced8525959",
+      "name": "Promise to pay",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "status": "archived",
+      "total_ai_suggestions": 21,
+      "total_human_suggestions": 12,
+      "total_samples": 28
+    },
+    {
+      "id": "5f213f5d-a269-4c85-ac0c-c6a1a0fb97d8",
+      "modelId": "6172be31-faa9-49a8-b3c6-6fced8525959",
+      "name": "Follow up",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "status": "active",
+      "total_ai_suggestions": 21,
+      "total_human_suggestions": 12,
+      "total_samples": 28
+    },
+    {
+      "id": "d7985dfd-2b5b-4d75-b5f4-f465a6f0795b",
+      "modelId": "6172be31-faa9-49a8-b3c6-6fced8525959",
+      "name": "Already paid",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sagittis est lacus, nec lobortis lectus varius at. Nullam porttitor arcu quis dui commodo, sit amet dapibus lorem suscipit. ",
+      "total_ai_suggestions": 21,
+      "total_human_suggestions": 12,
+      "total_samples": 24,
+      "status": "active"
+    }
+  ]
 }
